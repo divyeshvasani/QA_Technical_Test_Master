@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="86616" started-at="2019-06-13T18:43:10Z" finished-at="2019-06-13T18:44:37Z">
+    <groups>
+      <group name="Explore">
+        <method signature="UI_TestCases.Explore_Test()[pri:3, instance:UI_Testing.UI_TestCases@3884b2]" name="Explore_Test" class="UI_Testing.UI_TestCases"/>
+      </group> <!-- Explore -->
+      <group name="Web Page">
+        <method signature="UI_TestCases.PageTitle_Test()[pri:1, instance:UI_Testing.UI_TestCases@3884b2]" name="PageTitle_Test" class="UI_Testing.UI_TestCases"/>
+      </group> <!-- Web Page -->
+      <group name="Links">
+        <method signature="UI_TestCases.Expand_Operation_Link_Test()[pri:7, instance:UI_Testing.UI_TestCases@3884b2]" name="Expand_Operation_Link_Test" class="UI_Testing.UI_TestCases"/>
+        <method signature="UI_TestCases.List_Operation_Link_Test()[pri:6, instance:UI_Testing.UI_TestCases@3884b2]" name="List_Operation_Link_Test" class="UI_Testing.UI_TestCases"/>
+        <method signature="UI_TestCases.Show_Hide_Test()[pri:5, instance:UI_Testing.UI_TestCases@3884b2]" name="Show_Hide_Test" class="UI_Testing.UI_TestCases"/>
+        <method signature="UI_TestCases.default_Link_Test()[pri:4, instance:UI_Testing.UI_TestCases@3884b2]" name="default_Link_Test" class="UI_Testing.UI_TestCases"/>
+      </group> <!-- Links -->
+      <group name="Logo">
+        <method signature="UI_TestCases.Logo_Test()[pri:2, instance:UI_Testing.UI_TestCases@3884b2]" name="Logo_Test" class="UI_Testing.UI_TestCases"/>
+      </group> <!-- Logo -->
+    </groups>
+    <test name="Default test" duration-ms="86616" started-at="2019-06-13T18:43:10Z" finished-at="2019-06-13T18:44:37Z">
+      <class name="UI_Testing.UI_TestCases">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:UI_Testing.UI_TestCases@3884b2]" name="setUp" is-config="true" duration-ms="20626" started-at="2019-06-14T00:13:10Z" finished-at="2019-06-14T00:13:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="PageTitle_Test()[pri:1, instance:UI_Testing.UI_TestCases@3884b2]" name="PageTitle_Test" duration-ms="38" started-at="2019-06-14T00:13:31Z" finished-at="2019-06-14T00:13:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PageTitle_Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:UI_Testing.UI_TestCases@3884b2]" name="tearDown" is-config="true" duration-ms="1486" started-at="2019-06-14T00:13:31Z" finished-at="2019-06-14T00:13:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:UI_Testing.UI_TestCases@3884b2]" name="setUp" is-config="true" duration-ms="8745" started-at="2019-06-14T00:13:32Z" finished-at="2019-06-14T00:13:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Logo_Test()[pri:2, instance:UI_Testing.UI_TestCases@3884b2]" name="Logo_Test" duration-ms="12281" started-at="2019-06-14T00:13:41Z" finished-at="2019-06-14T00:13:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logo_Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:UI_Testing.UI_TestCases@3884b2]" name="tearDown" is-config="true" duration-ms="1127" started-at="2019-06-14T00:13:54Z" finished-at="2019-06-14T00:13:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:UI_Testing.UI_TestCases@3884b2]" name="setUp" is-config="true" duration-ms="7782" started-at="2019-06-14T00:13:55Z" finished-at="2019-06-14T00:14:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Explore_Test()[pri:3, instance:UI_Testing.UI_TestCases@3884b2]" name="Explore_Test" duration-ms="722" started-at="2019-06-14T00:14:02Z" finished-at="2019-06-14T00:14:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Explore_Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:UI_Testing.UI_TestCases@3884b2]" name="tearDown" is-config="true" duration-ms="876" started-at="2019-06-14T00:14:03Z" finished-at="2019-06-14T00:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:UI_Testing.UI_TestCases@3884b2]" name="setUp" is-config="true" duration-ms="6829" started-at="2019-06-14T00:14:04Z" finished-at="2019-06-14T00:14:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="default_Link_Test()[pri:4, instance:UI_Testing.UI_TestCases@3884b2]" name="default_Link_Test" duration-ms="132" started-at="2019-06-14T00:14:11Z" finished-at="2019-06-14T00:14:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- default_Link_Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:UI_Testing.UI_TestCases@3884b2]" name="tearDown" is-config="true" duration-ms="854" started-at="2019-06-14T00:14:11Z" finished-at="2019-06-14T00:14:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:UI_Testing.UI_TestCases@3884b2]" name="setUp" is-config="true" duration-ms="6793" started-at="2019-06-14T00:14:12Z" finished-at="2019-06-14T00:14:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Show_Hide_Test()[pri:5, instance:UI_Testing.UI_TestCases@3884b2]" name="Show_Hide_Test" duration-ms="187" started-at="2019-06-14T00:14:19Z" finished-at="2019-06-14T00:14:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Show_Hide_Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:UI_Testing.UI_TestCases@3884b2]" name="tearDown" is-config="true" duration-ms="795" started-at="2019-06-14T00:14:19Z" finished-at="2019-06-14T00:14:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:UI_Testing.UI_TestCases@3884b2]" name="setUp" is-config="true" duration-ms="6665" started-at="2019-06-14T00:14:20Z" finished-at="2019-06-14T00:14:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="List_Operation_Link_Test()[pri:6, instance:UI_Testing.UI_TestCases@3884b2]" name="List_Operation_Link_Test" duration-ms="132" started-at="2019-06-14T00:14:26Z" finished-at="2019-06-14T00:14:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- List_Operation_Link_Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:UI_Testing.UI_TestCases@3884b2]" name="tearDown" is-config="true" duration-ms="880" started-at="2019-06-14T00:14:26Z" finished-at="2019-06-14T00:14:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:UI_Testing.UI_TestCases@3884b2]" name="setUp" is-config="true" duration-ms="8244" started-at="2019-06-14T00:14:27Z" finished-at="2019-06-14T00:14:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Expand_Operation_Link_Test()[pri:7, instance:UI_Testing.UI_TestCases@3884b2]" name="Expand_Operation_Link_Test" duration-ms="285" started-at="2019-06-14T00:14:36Z" finished-at="2019-06-14T00:14:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Expand_Operation_Link_Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:UI_Testing.UI_TestCases@3884b2]" name="tearDown" is-config="true" duration-ms="1099" started-at="2019-06-14T00:14:36Z" finished-at="2019-06-14T00:14:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- UI_Testing.UI_TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

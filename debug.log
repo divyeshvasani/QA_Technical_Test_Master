@@ -1,0 +1,19 @@
+[0609/213645.785:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0609/213645.786:ERROR:exception_snapshot_win.cc(98)] thread ID 6204 not found in process
+[0609/213645.786:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0609/214336.830:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0609/214336.830:ERROR:exception_snapshot_win.cc(98)] thread ID 8160 not found in process
+[0609/214526.101:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0609/214526.102:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0609/214526.102:ERROR:exception_snapshot_win.cc(98)] thread ID 7864 not found in process
+[0609/215610.739:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0609/215610.761:ERROR:exception_snapshot_win.cc(98)] thread ID 4328 not found in process
+[0609/235020.394:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0609/235020.416:ERROR:exception_snapshot_win.cc(98)] thread ID 2444 not found in process
+[0609/235020.416:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0609/235749.910:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0609/235749.942:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::RTL_USER_PROCESS_PARAMETERS<crashpad::process_types::internal::Traits32>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0609/235749.943:ERROR:process_info.cc(545)] ReadProcessData failed
+[0610/002533.931:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0610/002534.013:ERROR:exception_snapshot_win.cc(98)] thread ID 7204 not found in process
+[0610/002534.014:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
